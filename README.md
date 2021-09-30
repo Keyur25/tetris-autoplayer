@@ -8,7 +8,7 @@ I coded this Python.
 
 ## Screenshots
 
-![Screenshot](/screenshots/Screenshot.png?raw=true)
+![Screenshot](/screenshots/Screenshot.gif?raw=true)
 
 ## License
 
