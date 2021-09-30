@@ -2,7 +2,7 @@
 
 ## About
 
-This is a program that plays the game Tetris and aims to get the highest possible score. It does with making use of a backtracking algorithm that checks all possible outcomes and places the block in the best posible position. 
+This is a program that plays the game Tetris and aims to get the highest possible score. It does with making use of a backtracking algorithm that checks all possible outcomes and places the block in the best possible position.
 
 I coded this Python.
 
